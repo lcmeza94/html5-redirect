@@ -2,8 +2,8 @@
 Basic template HTML5 to redirect another web page.
 
 ## Done with
-- Html5
-- Css - Grid Layaout
+- HTML5
+- CSS - Grid Layaout
 - Javascript
 
 ## DEMO
