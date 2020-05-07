@@ -1,4 +1,4 @@
-# Description
+## Description
 Basic template HTML5 to redirect another web page.
 
 ## Done with
